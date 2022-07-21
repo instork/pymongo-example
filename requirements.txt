@@ -2,3 +2,6 @@ pymongo
 jupyter
 ipykernel
 python-dotenv == 0.20.0
+requests
+pendulum
+tqdm
